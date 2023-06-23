@@ -1,0 +1,51 @@
+2023-06-23 18:37:43,601 - main - DEBUG - 27496 - MainProcess -29948 -MainThread - 运行线程数为：8
+2023-06-23 18:37:43,612 - main - DEBUG - 27496 - MainProcess -8612 -Thread-1 (worker) - 类 -TestOneAI- 开始运行
+2023-06-23 18:37:43,617 - main - DEBUG - 27496 - MainProcess -27156 -Thread-12 (worker) - 类 -TestOneAI的方法verify_project_name_1___VIPTEST___- 开始运行
+2023-06-23 18:37:54,317 - main - ERROR - 27496 - MainProcess -27156 -Thread-12 (worker) - 
+2023-06-23 18:37:56,391 - main - DEBUG - 27496 - MainProcess -8612 -Thread-1 (worker) - 类 -TestOneAI- 结束运行
+2023-06-23 18:37:56,396 - main - INFO - 27496 - MainProcess -29948 -MainThread - 本次总运行时间 13.481278896331787 s
+2023-06-23 18:37:56,399 - main - INFO - 27496 - MainProcess -29948 -MainThread - 
+Total 1 cases were run:
+2023-06-23 18:37:56,401 - main - INFO - 27496 - MainProcess -29948 -MainThread - 1 cases Failed, details info are:
+ ['TestOneAI.verify_project_name_1___VIPTEST___']
+2023-06-23 18:37:56,404 - main - ERROR - 27496 - MainProcess -29948 -MainThread - [1;31m
+2023-06-23 18:37:56,405 - main - INFO - 27496 - MainProcess -29948 -MainThread - 
+------------------------------ Tests done 2023-06-23 18:37:56, total used 13.48 seconds ------------------------------ 
+2023-06-23 18:37:56,407 - main - INFO - 27496 - MainProcess -29948 -MainThread - 
+------------------------------ Starting to generate automation report... ------------------------------ 
+2023-06-23 18:37:56,410 - main - INFO - 27496 - MainProcess -29948 -MainThread - 
+------------------------------ Generate report done, please check report.html from 'C:\Users\14917\Desktop\study\PythonFramework0To1\从0到1搭建自动化测试框架-原理-实现与工程实践\Chapter13\output\2023-06-23-18-37-42'. ------------------------------ 
+2023-06-23 18:40:34,849 - main - DEBUG - 18764 - MainProcess -1324 -MainThread - 运行线程数为：8
+2023-06-23 18:40:34,859 - main - DEBUG - 18764 - MainProcess -23668 -Thread-1 (worker) - 类 -TestOneAI- 开始运行
+2023-06-23 18:40:34,864 - main - DEBUG - 18764 - MainProcess -28604 -Thread-12 (worker) - 类 -TestOneAI的方法verify_project_name_1___VIPTEST___- 开始运行
+2023-06-23 18:40:41,246 - main - ERROR - 18764 - MainProcess -28604 -Thread-12 (worker) - 
+2023-06-23 18:40:43,332 - main - DEBUG - 18764 - MainProcess -23668 -Thread-1 (worker) - 类 -TestOneAI- 结束运行
+2023-06-23 18:40:43,335 - main - INFO - 18764 - MainProcess -1324 -MainThread - 本次总运行时间 8.760782718658447 s
+2023-06-23 18:40:43,336 - main - INFO - 18764 - MainProcess -1324 -MainThread - 
+Total 1 cases were run:
+2023-06-23 18:40:43,337 - main - INFO - 18764 - MainProcess -1324 -MainThread - 1 cases Failed, details info are:
+ ['TestOneAI.verify_project_name_1___VIPTEST___']
+2023-06-23 18:40:43,339 - main - ERROR - 18764 - MainProcess -1324 -MainThread - [1;31m
+2023-06-23 18:40:43,340 - main - INFO - 18764 - MainProcess -1324 -MainThread - 
+------------------------------ Tests done 2023-06-23 18:40:43, total used 8.76 seconds ------------------------------ 
+2023-06-23 18:40:43,341 - main - INFO - 18764 - MainProcess -1324 -MainThread - 
+------------------------------ Starting to generate automation report... ------------------------------ 
+2023-06-23 18:40:43,343 - main - INFO - 18764 - MainProcess -1324 -MainThread - 
+------------------------------ Generate report done, please check report.html from 'C:\Users\14917\Desktop\study\PythonFramework0To1\从0到1搭建自动化测试框架-原理-实现与工程实践\Chapter13\output\2023-06-23-18-40-34'. ------------------------------ 
+2023-06-23 18:42:07,074 - main - DEBUG - 17872 - MainProcess -23516 -MainThread - 运行线程数为：8
+2023-06-23 18:42:07,083 - main - DEBUG - 17872 - MainProcess -26640 -Thread-1 (worker) - 类 -TestOneAI- 开始运行
+2023-06-23 18:42:07,088 - main - DEBUG - 17872 - MainProcess -10268 -Thread-12 (worker) - 类 -TestOneAI的方法verify_project_name_1___VIPTEST___- 开始运行
+2023-06-23 18:42:13,674 - main - ERROR - 17872 - MainProcess -10268 -Thread-12 (worker) - '.ones.ai'
+2023-06-23 18:42:15,795 - main - DEBUG - 17872 - MainProcess -26640 -Thread-1 (worker) - 类 -TestOneAI- 结束运行
+2023-06-23 18:42:15,798 - main - INFO - 17872 - MainProcess -23516 -MainThread - 本次总运行时间 8.991574048995972 s
+2023-06-23 18:42:15,799 - main - INFO - 17872 - MainProcess -23516 -MainThread - 
+Total 1 cases were run:
+2023-06-23 18:42:15,800 - main - INFO - 17872 - MainProcess -23516 -MainThread - 1 cases Run error, details info are:
+ ['TestOneAI.verify_project_name_1___VIPTEST___']
+2023-06-23 18:42:15,801 - main - ERROR - 17872 - MainProcess -23516 -MainThread - [0m
+2023-06-23 18:42:15,802 - main - INFO - 17872 - MainProcess -23516 -MainThread - 
+------------------------------ Tests done 2023-06-23 18:42:15, total used 8.99 seconds ------------------------------ 
+2023-06-23 18:42:15,803 - main - INFO - 17872 - MainProcess -23516 -MainThread - 
+------------------------------ Starting to generate automation report... ------------------------------ 
+2023-06-23 18:42:15,806 - main - INFO - 17872 - MainProcess -23516 -MainThread - 
+------------------------------ Generate report done, please check report.html from 'C:\Users\14917\Desktop\study\PythonFramework0To1\从0到1搭建自动化测试框架-原理-实现与工程实践\Chapter13\output\2023-06-23-18-42-06'. ------------------------------ 
